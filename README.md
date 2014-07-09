@@ -1,4 +1,5 @@
 sample01
 ========
 
-Created on GitHub web
+# Created on GitHub web
+# Sample repository for GitHub class
